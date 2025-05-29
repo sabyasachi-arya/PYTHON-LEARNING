@@ -1,1 +1,3 @@
 # PYTHON-LEARNING
+# The chapters is in numerical order, so follow the order
+# and go to 1)Refreshers folder the 2)Refreshers and so on......
